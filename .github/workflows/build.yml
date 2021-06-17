@@ -3,7 +3,7 @@ name: hugo blog building
 on:
   push:
     branches:
-      - deploy
+      - main
 
 jobs:
   deploy:
